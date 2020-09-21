@@ -1,4 +1,4 @@
-/* simple trojan im c++ */
+/* simple trojan im c */
 #include <windows.h>
 #pragma comment(lib, "Winmm.lib")
 #include <urlmon.h> 
